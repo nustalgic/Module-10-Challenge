@@ -34,7 +34,7 @@ from path import Path
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
-
+```
 ---
 
 ## Usage
